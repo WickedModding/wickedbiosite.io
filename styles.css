@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	color: #fff;
+    font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.dog {
+	position: relative;
+	left: 150px;
+	top: 180px;
+}
+.dogtx {
+  font-size: 60px;
+  position: relative;
+  top: 550px;
+  left: 200px;	
+}
+.yokos {
+	position: relative;
+	left: 500px;
+	top: -124px;
+}
+
+.yokostx {
+	font-size: 60px;
+	position: relative;
+	left: 570px;
+	top: -365px;
+}
+.hleb {
+	font-size: 60px;
+	position: relative;
+	top: -360px;
+	left: 425px;
+}
+.hlebimg {
+   position: relative;
+   left: 700px;
+   top: -430px;	
+}
