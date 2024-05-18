@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
 *{
 	margin: 0;
@@ -8,71 +7,52 @@
   font-weight: 400;
   font-style: normal;
 }
-
-
 .main {
 	text-align: center;
 	position: relative;
 }
-
-
 .main img{
 	width: 300px;
 	height: 300px;
-
 }
-
 .main h1{
    font-size: 70px;
 }   	
-
 .main p{
    font-size: 50px;
 }
-
 .ButtonTG {
 	background-color: blue;
 	font-size: 50px;
 	position: relative;
-	top: 60px;
+	left: 330px;
+	top: 40px;
+	text-decoration: none;
+	padding: 20px 70px;
 }
-
-.Friends {
-	position: relative;
+.yt {
 	font-size: 50px;
-	top: 93px;
-}
-
-.image1 {
- position: relative;
- top: 110px;
- right: 180px;
-
- }
-
-.Dog {
- 	position: relative;
- 	font-size: 40px;
- 	top: 130px;
- 	right: 180px;
-}
-
-.main {
-   background-color: 
-   width: 100%;
-   height: 500vh;
-}
-
-.yokos {
 	position: relative;
-	top: 85px;
-	left: 190px;
-	font-size: 40px;
-
-}	
-
-.yokoss {
+	background-color: red;
+	right: 170px;
+	top: 150px;
+	text-decoration: none;
+	padding: 20px 70px;
+}
+.fr {
+    background-color: green;
+    font-size: 70px;
+    position: relative;
+    top: 100px;
+    right: 100px;
+    text-decoration: none;
+	padding: 20px 70px;
+}
+.php {
+	background-color: black;
+	font-size: 30px;
 	position: relative;
-	top: -285px;
-	left: 200px;
+	right: 580px;
+	text-decoration: none;
+	padding: 20px 70px;
 }
