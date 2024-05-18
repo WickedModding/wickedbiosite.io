@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
-@media(max-width: 992px){
-}
+@media (max-width: 568px){ // для устройств с максимальной шириной в 568px применятся стиль 
+  .btn-group{
+      flex-direction:column; // свойство для отображения в столбец
+      }
+  }
+
 *{
 	margin: 0;
 	padding: 0;
